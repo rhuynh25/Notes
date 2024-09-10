@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "vsc-along",
+  "version": "1.0.0",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^20.14.0",
+    "node.js": "^0.0.1-security",
+    "sass": "^1.77.0"
+  },
+  "description": ""
+}
